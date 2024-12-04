@@ -7,6 +7,11 @@ AI 기반 공급망 보안: 악성파일 탐지 및 안전한 배포 서비스 �
 채진수 ( jinsu9758 ) ★   
 고재민 ( Greenboy )  
 양재원 ( R4ambb )  
+
+- Malconv model 분석, Malconv model Predict code 작성.
+- Malconv 모델 학습 및 파인 튜닝.
+- 악성 샘플 수집 크롤링 코드 작성.
+- 정상, 악성 샘플 전처리 코드 작성.
 유성모 ( d0razi ) 
 
 ***프로젝트 배경***  
