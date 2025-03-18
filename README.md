@@ -42,7 +42,7 @@ AI 기반 공급망 보안: 악성파일 탐지 및 안전한 배포 서비스 �
 ⑥ 클라이언트는 안전한 배포파일 다운로드 가능
 
 ※ AWS 환경 구성은 아래의 url 참고  
-https://github.com/jinsu9758/lambda_docker_test
+[https://github.com/jinsu9758/lambda_docker_test](https://github.com/R4mbb/2024_capstone_2)
 
 
 ### 2.EC2 접속 ###
